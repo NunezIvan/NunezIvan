@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://NunezIvan.github.io"><img width="600" alt="Image_Hello" src="./assets/Hello_Image_Nz.png" /></a>
+</h1>
+<h3>A passionate BackEnd Developer (I'm also learning frontend development 🥲) </h3>
 
-<!--
-**NunezIvan/NunezIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+<ul style="margin: 20px auto; padding: 20px; max-width: 600px; list-style-type: none;">
+  <li style="margin-bottom: 10px;">📓 I'm a Software Engineering student at the University of San Marcos <img align="center" alt="SM_LogoNz" src="./assets/SM_logoNz.png"></img>.</li>
+  <li style="margin-bottom: 10px;">🙏 I enjoy coding in Java, especially with Spring Boot <img align="center" alt="SpringBoot_logoNz" src="./assets/SpringBoot_logoNz.png"></img>.</li>
+  <li style="margin-bottom: 10px;">💪 Always available to develop and help.
+  <li style="margin-bottom: 10px;">💬 Ask me about anything <a href="https://github.com/NunezIvan/NunezIvan/issues">here</a>.</li>
+  <li style="margin-bottom: 10px;">📫 Email: <strong>nunezivan124@gmail.com</strong> .</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Things I code with**
+<p>
+  <img alt="java" src="https://img.shields.io/badge/Java-green.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNDguMDAwMDAwcHQiIGhlaWdodD0iNDguMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCA0OC4wMDAwMDAgNDguMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+CjxtZXRhZGF0YT4KQ3JlYXRlZCBieSBwb3RyYWNlIDEuMTAsIHdyaXR0ZW4gYnkgUGV0ZXIgU2VsaW5nZXIgMjAwMS0yMDExCjwvbWV0YWRhdGE+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLDQ4LjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iI0ZGRkZGRiIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTI2MCA0MTggYzAgLTggLTE4IC0zMiAtNDAgLTUzIC00NyAtNDYgLTUwIC03MiAtMTQgLTEwNiAyNSAtMjMgMjYKLTIzIDE1IC0yIC0xOCAzNSAtMTMgNTMgMjQgOTQgMzUgMzkgNDMgNjMgMjUgNzQgLTUgMyAtMTAgMCAtMTAgLTd6Ii8+CjxwYXRoIGQ9Ik0yNzggMzU0IGMtMzEgLTE2IC00NyAtNTkgLTI5IC03NyA2IC02IDExIC0yMCAxMSAtMzEgMCAtMTkgMSAtMTkKMTYgLTQgMTIgMTIgMTQgMjAgNSAzNiAtMTggMzMgLTEzIDQ5IDIyIDcxIDM2IDI0IDE2IDI4IC0yNSA1eiIvPgo8cGF0aCBkPSJNMTMxIDIzMSBjLTI5IC0xOCAyIC0zMSA3NCAtMzEgNDAgMCA4MCAzIDg5IDYgMzQgMTMgMTMgMTkgLTYxIDE2Ci01NiAtMiAtNzQgMCAtNjMgNyAxMyA5IDEyIDExIC01IDExIC0xMSAwIC0yNiAtNCAtMzQgLTl6Ii8+CjxwYXRoIGQ9Ik0zNDAgMjI1IGMxMiAtMTUgNSAtNTUgLTExIC01NSAtNSAwIC05IC01IC05IC0xMCAwIC0xNiAzOCA3IDUwIDMxCjEzIDIzIC0yIDQ5IC0yNyA0OSAtMTIgMCAtMTMgLTMgLTMgLTE1eiIvPgo8cGF0aCBkPSJNMTUyIDE3OSBjNiAtMTggMTI2IC0yNSAxNDIgLTkgOCA4IC01IDEwIC00NCA5IC0zMCAtMSAtNjYgMSAtNzkgNgotMTcgNSAtMjIgNCAtMTkgLTZ6Ii8+CjxwYXRoIGQ9Ik0xNjMgMTM3IGMtNyAtMTIgMjIgLTE4IDczIC0xNSAyNyAyIDQ3IDcgNDQgMTIgLTYgMTEgLTExMCAxNCAtMTE3CjN6Ii8+CjxwYXRoIGQ9Ik05NCAxMTkgYy0xNSAtMjQgMjUgLTQyIDEwMyAtNDYgOTEgLTUgMTU2IDExIDE2MSA0MSA0IDE4IDMgMTggLTEyCjMgLTIyIC0yMSAtNzMgLTMwIC0xNDYgLTI1IC02NCA1IC04MyAxNCAtNjAgMjggMTEgNyA5IDEwIC0xMiAxMCAtMTUgMCAtMzAKLTUgLTM0IC0xMXoiLz4KPHBhdGggZD0iTTMzNSA2OCBjLTM3IC0xNCAtNjggLTE3IC0xMjAgLTE0IC00NCAzIC02MSAxIC00NSAtNCA2NiAtMjEgMTk0IC00CjIxNCAyOSA0IDYgNiAxMCA0IDEwIC0yIC0xIC0yNSAtMTAgLTUzIC0yMXoiLz4KPC9nPgo8L3N2Zz4=&style=flat-square"/>
+  <img alt="c++" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=orange" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="springboot" src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=spring%20boot&logoColor=white" />
+  <img alt="fastapi" src="https://img.shields.io/badge/-fastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github&logoColor=white&color=gray" />
+  <img alt="visual_studio_code" src="https://img.shields.io/badge/Visual Studio Code-blue.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjU2LjAwMDAwMHB0IiBoZWlnaHQ9IjI1Ni4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDI1Ni4wMDAwMDAgMjU2LjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGE+CkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNTYuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpmaWxsPSIjRkZGRkZGIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTM5OSAyMDc0IGMtMjY2IC0yNjYgLTQ4NyAtNDg0IC00OTAgLTQ4NCAtNCAwIC0zMCAxOSAtNjAgNDMgLTI5CjIzIC01MCAzNiAtNDYgMzAgNSAtNyA2IC0xMyAyIC0xMyAtOCAwIC0xMzUgMTAxIC0xMzUgMTA3IDAgNiA0IDMgNzQgLTUzIDI4Ci0yMSA0NyAtMzQgNDQgLTI4IC00IDUgLTM1IDMyIC02OSA1OSAtMzUgMjcgLTU5IDQ0IC01NSAzNyA0IC03IDUgLTEyIDEgLTEyCi04IDAgLTEzNSAxMDEgLTEzNSAxMDcgMCA2IDQgMyA3NCAtNTMgMjggLTIxIDQ3IC0zNCA0NCAtMjggLTQgNSAtMzUgMzIgLTY5CjU5IC0zNSAyNyAtNTkgNDQgLTU1IDM3IDQgLTcgNSAtMTIgMSAtMTIgLTggMCAtMTM1IDEwMSAtMTM1IDEwNyAwIDYgNCAzIDc0Ci01MyAyOCAtMjEgNDcgLTM0IDQ0IC0yOCAtNCA1IC0zNSAzMiAtNjkgNTkgLTM1IDI3IC01OSA0NCAtNTUgMzcgMTUgLTI0IC0xMAotMTEgLTU0IDI5IGwtNDUgNDEgNDUgLTMyIDQ1IC0zMiAtMzkgMzUgLTQwIDM1IC0xMzggLTY5IGMtNzYgLTM4IC0xNDEgLTY5Ci0xNDUgLTY5IC01IDEgMjcgMTkgNzAgNDEgNDIgMjEgNzcgNDEgNzcgNDQgMCAzIC0zNiAtMTMgLTgwIC0zNSBsLTc5IC00MCAtMQotNjYzIDAgLTY2MiAxMzkgLTcwIGMxMDIgLTUwIDE0MyAtNjYgMTUzIC01OCA3IDUgMTQ2IDExMiAzMDggMjM4IDE2MiAxMjYKMzAwIDIzMiAzMDUgMjM2IDcgNSAxOTkgLTE4MSA0OTAgLTQ3NCBsNDgwIC00ODIgLTQ4MCA0NzUgLTQ4MCA0NzUgNDc0IC00NzcKNDc0IC00NzYgOTUgMCBjNTIgMCA4OSA0IDgzIDcgLTYgNCAxMDQgNTMgMjQ0IDExMCAxNDAgNTYgMjU5IDEwMCAyNjQgOTYgNwotNCAxMSAzMjkgMTEgMTA0MyBsMCAxMDUwIC0yOTIgMTE3IGMtMjY5IDEwNyAtMzQ0IDE0MCAtMjc4IDEyMCAxNCAtNCAyMiAtNAoxNyAxIC00IDQgLTM0IDggLTY2IDEwIGwtNTkgMSAtNDgzIC00ODN6IG00ODcgLTEyNTEgYy0yIC0yIC0xMzQgOTcgLTI5NCAyMjAKbC0yOTAgMjI0IDI5MiAyMjYgMjkxIDIyNiAzIC00NDYgYzEgLTI0NSAwIC00NDggLTIgLTQ1MHogbS0xMzk1IDMyOSBjLTY0Ci01OCAtMTMwIC0xMTkgLTE0OCAtMTM2IGwtMzIgLTI5IC0zIDI4NiAtMyAyODcgMTUxIC0xNTEgMTUxIC0xNTEgLTExNiAtMTA2eiIvPgo8cGF0aCBkPSJNMzIwIDEyNzIgbDEgLTI2MyA3NyA3MCBjNDIgMzggMTA0IDk0IDEzNyAxMjQgbDYwIDU2IC0xMzggMTM4IC0xMzcKMTM4IDAgLTI2M3ogbTIwNSAtNjggYy0zMyAtMzAgLTkwIC04MiAtMTI3IC0xMTYgbC02OCAtNjAgMCAyNDMgMCAyNDQgMTI4Ci0xMjggMTI3IC0xMjggLTYwIC01NXoiLz4KPC9nPgo8L3N2Zz4=&style=flat-square"/>
+  <img alt="intellij_idea" src="https://img.shields.io/badge/-Intellij%20IDEA-%23000000?style=flat-square&logo=intellij%20idea&logoColor=white" />
+  <img alt="apache_netbeans" src="https://img.shields.io/badge/-Apache%20Netbeans-%231B6AC6?style=flat-square&logo=apache%20netbeans%20ide&logoColor=white" />
+  <img alt="openai" src="https://img.shields.io/badge/-Open%20AI-%23412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="claude" src="https://img.shields.io/badge/-Claude-%23D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img alt="gemini" src="https://img.shields.io/badge/-Google%20Gemini-%238E75B2?style=flat-square&logo=google%20gemini&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+<h3 align="center">Certifications:</h3>
+<p align="center">
+  <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/twitter_thumb_201604_image.png" alt="GH" width="150" height="150" />
+</p>
+<h3 align="center">More certifications coming soon....</h3>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/NunezIvan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNTAwLjAwMDAwMHB0IiBoZWlnaHQ9IjUwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDUwMC4wMDAwMDAgNTAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGE+CkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCw1MDAuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpmaWxsPSIjRkZGRkZGIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMCAyNTAwIGwwIC0yNTAwIDI1MDAgMCAyNTAwIDAgMCAyNTAwIDAgMjUwMCAtMjUwMCAwIC0yNTAwIDAgMAotMjUwMHogbTEyMjkgMTc4OSBjMTE2IC0yNiAyMjkgLTEyMSAyODQgLTIzNiAzMCAtNjQgMzIgLTc1IDMyIC0xNzggMCAtMTAzCi0yIC0xMTQgLTMyIC0xNzggLTg1IC0xNzkgLTI3MiAtMjgwIC00NTkgLTI0OSAtMzQ2IDU3IC00ODMgNDc3IC0yMzkgNzI4IDEwNwoxMDkgMjUzIDE0OSA0MTQgMTEzeiBtMjQzNiAtMTEzOCBjMjYyIC03MCA0MzEgLTIzMCA1MTQgLTQ4NyA3MCAtMjE2IDgxIC0zNzMKODEgLTEyNDEgbDAgLTY3MyAtMzc0IDAgLTM3NSAwIC00IDcxMyBjLTMgNjI3IC01IDcyMCAtMjAgNzc1IC0zNyAxMzggLTk4CjIyMCAtMTk2IDI2NiAtMzkgMTggLTY0IDIxIC0xNjYgMjEgLTEwMSAtMSAtMTI5IC00IC0xNzcgLTIzIC0xMTQgLTQ2IC0xODgKLTEzOSAtMjMwIC0yODkgLTIyIC03NiAtMjIgLTkzIC0yNiAtNzcwIGwtMyAtNjkzIC0zNjkgMCAtMzcwIDAgMCAxMTkwIDAKMTE5MCAzNTMgLTIgMzUyIC0zIDMgLTE2NCAzIC0xNjUgMzYgNTUgYzEwMSAxNDkgMjg2IDI3MSA0NzggMzEzIDEwNCAyMyAzODIKMTYgNDkwIC0xM3ogbS0yMTc3IC0xMjEzIGwyIC0xMTg4IC0zNzAgMCAtMzcwIDAgMCAxMTkwIDAgMTE5MCAzNjggLTIgMzY3IC0zCjMgLTExODd6Ii8+CjwvZz4KPC9zdmc+&style=for-the-badge" /></a> 
+</p>
